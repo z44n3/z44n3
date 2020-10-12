@@ -1,0 +1,2 @@
+loadstring(game:HttpGet(('https://gitlab.com/Tsuniox/lua-stuff/-/raw/master/RagdollEngineGUI.lua'),true))()
+roblox, Ragdoll engine, Really OP. I think it supports Krnl.
